@@ -1,5 +1,4 @@
 # Linear_Programming
-
-*Exercises in linear programming*
+Exercises in linear programming
 =======
 
