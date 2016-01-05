@@ -21,6 +21,4 @@ y \geq 0
 
 The resulting solution space is pictured below:
 
-Linear_Programming/misc/diet.png
-
-![alt tag](jknowland.github.com/Linear_Programming/misc/diet.png)
+![Alt text](https://raw.githubusercontent.com/jknowland/Linear_Programming/master/misc/diet.png?raw=true "example")
