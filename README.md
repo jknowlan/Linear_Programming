@@ -8,17 +8,12 @@ Second Edition*
 
 **Example 2.5**: Graph the constraint set associated with Example 1.1 on Page 2, the diet problem
 
-**Problem**: $Minimize\ C = 0.60x = 0.40y;$
+**Problem**: ![Alt text](https://raw.githubusercontent.com/jknowland/Linear_Programming/master/misc/min.png?raw=true "problem")
 
 Subject to the following constraints:
 
-$\begin{cases}20x + 30y \geq 60, \\
-12x + 6y \geq 24, \\
-30x + 15y \geq 30, \\
-x \geq 0, \\
-y \geq 0
-\end{cases}$
+![Alt text](https://raw.githubusercontent.com/jknowland/Linear_Programming/master/misc/eqn.png?raw=true "eqn")
 
 The resulting solution space is pictured below:
 
-![Alt text](https://raw.githubusercontent.com/jknowland/Linear_Programming/master/misc/diet.png?raw=true "example")
+![Alt text](https://raw.githubusercontent.com/jknowland/Linear_Programming/master/misc/diet.png?raw=true "plot")
