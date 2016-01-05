@@ -2,7 +2,7 @@
 
 Repo contains Jupyter notebooks that plot solutions to linear optimization
 problems presented in *Linear Programming: An Introduction with Applications
-Second Edition*
+(Second Edition)*
 
 ###Example###
 
